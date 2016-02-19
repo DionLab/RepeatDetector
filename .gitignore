@@ -1,0 +1,13 @@
+
+\.kdev4/
+
+build/
+
+RepeatDetecter.kdev4
+
+doc/RepeatDetecter.aux
+doc/RepeatDetecter.log
+doc/RepeatDetecter.out
+doc/RepeatDetecter.toc
+CPackSourceConfig.cmake
+
