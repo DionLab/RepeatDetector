@@ -47,7 +47,7 @@ ENDIF(THREADS_HAVE_PTHREAD_ARG)
 #########################################################################################
 # Tests 
 IF (BUILD_TESTING)
-  INCLUDE(${PROJECT_SOURCE_DIR}/cmake/tests/TestSuite.cmake)
+#  INCLUDE(${PROJECT_SOURCE_DIR}/cmake/tests/TestSuite.cmake)
 ENDIF(BUILD_TESTING)
 
 #########################################################################################
