@@ -24,6 +24,8 @@ HTSLib must also be installed for RepeatDetector.
 ## General Usage
 Repeat Detector requires an input fasta file and a selected profile. When run with no output format selected, RD will output a table of reads, with associated longest repeat tract to stdout. 
 
+Profiles either allow an interruption in the repeat tract (permissive/Annex2) or do not allow an interruption (restrictive/Annex10).
+
 ```
 RepeatDetector --prf <profile> <fasta-file> <options>
 
