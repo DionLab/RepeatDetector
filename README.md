@@ -3,7 +3,9 @@
 Repeat Detector (RD) is a deterministic profile weighting algorithm for counting repeats in targeted sequencing data. Based on the pfsearch algorithm, it is an alignment free method that uses unaligned FASTA files, along with a preset motif file. 
 
 ## Installation
-Repeat Detector and its dependency libprf (DionLab/libprf) can be installed using:
+Repeat Detector is available as a built executable in the 'RepeatDetector-1.0.15eb445-Release-Linux-x86_64' folder. Repeat detector requires HTSLib to run.
+
+The source code of Repeat Detector and its dependency libprf (DionLab/libprf) can be installed using:
 ```
 git clone https://github.com/DionLab/libprf.git
 git clone https://github.com/DionLab/RepeatDetector.git
