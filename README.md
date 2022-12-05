@@ -112,3 +112,6 @@ RepeatDetector --prf <profile> <fasta-file> <options>
   Other
     --verbose                 [-V] : verbose on stderr
     --help                    [-h] : output command help
+ ```
+ ## Publication
+Alysha S Taylor, Dinis Barros, Nastassia Gobet, Thierry Schuepbach, Branduff McAllister, Lorene Aeschbach, Emma L Randall, Evgeniya Trofimenko, Eleanor R Heuchan, Paula Barszcz, Marc Ciosi, Joanne Morgan, Nathaniel J Hafford-Tear, Alice E Davidson, Thomas H Massey, Darren G Monckton, Lesley Jones, REGISTRY Investigators of the European Huntington’s disease network, Ioannis Xenarios, Vincent Dion, Repeat Detector: versatile sizing of expanded tandem repeats and identification of interrupted alleles from targeted DNA sequencing, NAR Genomics and Bioinformatics, Volume 4, Issue 4, December 2022, lqac089, https://doi.org/10.1093/nargab/lqac089
