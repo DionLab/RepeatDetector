@@ -2,7 +2,7 @@
 ## About
 Repeat Detector (RD) is a deterministic profile weighting algorithm for counting repeats in targeted sequencing data. Based on the pfsearch algorithm, it is an alignment free method that uses unaligned FASTA files, along with a preset motif file. 
 
-**##New executable GUI for Windows and macOS**
+**New executable GUI for Windows and macOS**
 
 Instructions and the application/executable are located under the macOS and Windows folders, respectively, to avoid dependency and installation issues.
 
