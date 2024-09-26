@@ -3,7 +3,7 @@
 Repeat Detector (RD) is a deterministic profile weighting algorithm for counting repeats in targeted sequencing data. Based on the pfsearch algorithm, it is an alignment free method that uses unaligned FASTA files, along with a preset motif file. 
 
 **##New executable GUI for Windows and macOS**
-Instructions and app/exe under the folder macOS and Windows respectively. 
+Instructions and app/exe under the folder macOS and Windows respectively to avoid the dependencies & installation issues. 
 To run on Linux/HPC, use the singularity image repeat_detector.sif available here: https://zenodo.org/api/records/12773712/draft/files/repeat_detector.sif (Will change soon to a newer link!)
 
 
