@@ -9,7 +9,7 @@ Instructions and the application/executable are located under the macOS and Wind
 To use on Windows: https://github.com/DionLab/RepeatDetector/tree/main/Windows
 To use on macOS: https://github.com/DionLab/RepeatDetector/tree/main/macOS
 
-For Linux/HPC, use the Singularity image repeat_detector.sif, available here (This link will be updated soon!).
+For Linux/HPC, use the Singularity image repeat_detector.sif, available here: https://zenodo.org/records/13847199/files/repeat_detector.sif?download=1.
 
 
 
