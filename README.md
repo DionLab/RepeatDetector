@@ -2,7 +2,7 @@
 ## About
 Repeat Detector (RD) is a deterministic profile weighting algorithm for counting repeats in targeted sequencing data. Based on the pfsearch algorithm, it is an alignment free method that uses unaligned FASTA files, along with a preset motif file. 
 
-**New executable GUI for Windows and macOS**(currently runs only restrictive profile)
+**New executable GUI for Windows and macOS**
 
 Instructions and the application/executable are located under the macOS and Windows folders, respectively, to avoid dependency and installation issues.
 
@@ -11,8 +11,7 @@ To use on macOS: https://github.com/DionLab/RepeatDetector/tree/main/macOS
 
 For Linux/HPC, use the Singularity image repeat_detector.sif, available here: https://zenodo.org/records/13847199/files/repeat_detector.sif?download=1.
 
-
-
+Currently, only the restrictive profile is available. The permissive profile, along with other features, will be added in the next update!
 
 ## Installation
 Repeat Detector is available as a built executable in the 'RepeatDetector-1.0.15eb445-Release-Linux-x86_64' folder.
