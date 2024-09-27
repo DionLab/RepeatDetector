@@ -1,7 +1,7 @@
 # Windows Instructions
 
 1. Download [Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/), install it, and ensure it is running.
-2. Download the Repeat Detector Docker image from [Zenodo](https://zenodo.org/api/records/12773712/draft/files/repeat-detector.tar) (link to be modified).
+2. Download the Repeat Detector Docker image from [Zenodo](https://zenodo.org/records/13847199/files/repeat-detector.tar?download=1) (link to be modified).
 3. Copy the GUI files and run them locally from your computer rather than from networked folders.
 4. Locate `RDProgramRunner.exe` and double-click it to run.
 5. If Windows shows a security warning, click **More info**, then click **Run anyway**.
