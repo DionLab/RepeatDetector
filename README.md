@@ -13,27 +13,6 @@ For Linux/HPC, use the Singularity image repeat_detector.sif, available here: ht
 
 Currently, only the restrictive profile is available. The permissive profile, along with other features, will be added in the next update!
 
-## Installation
-Repeat Detector is available as a built executable in the 'RepeatDetector-1.0.15eb445-Release-Linux-x86_64' folder.
-
-To build from scratch, the source code of Repeat Detector and its dependency libprf (DionLab/libprf) can be installed using:
-```
-git clone https://github.com/DionLab/libprf.git
-git clone https://github.com/DionLab/RepeatDetector.git
-```
-WARNING: libprf MUST be installed in the same directory prior to installing RepeatDetector
-
-Once the repository has been cloned, enter the directory (i.e. RepeatDetector) and perform the following commands:
-
-```
-mkdir build
-cd build
-cmake ../
-make 
-make install
-```
-HTSLib must also be installed for RepeatDetector.
-
 ## General Usage
 Repeat Detector requires an input fasta file and a selected profile. When run with no output format selected, RD will output a table of reads, with associated longest repeat tract to stdout. 
 
