@@ -12,3 +12,5 @@ doc/RepeatDetecter.out
 doc/RepeatDetecter.toc
 CPackSourceConfig.cmake
 
+*.tar
+*.tar.gz
